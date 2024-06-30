@@ -8,6 +8,15 @@ When the mod is instaled many launch arguments can be added to a sfs shortcut to
 - `--NoMods` Runs sfs without any mods (includes this mod) - **This is not a security feature it can be bypassed, only acts as a safe mod for fixing problems**
 -  `--loadSave="World Name".hub/build/world` launches a world on load instantly, can load either into the hub, build space or the world
 
+- `--DisableAstronauts:true/false` Enables or disables astronauts `Default: true`
+- `--DisableNewBuild:true/false` Enables or disables new builds `Default: true`
+- `--HasModLoader:true/false` Enables or disables the mod loader (the same as --NoMods) `Default: true`
+- `--HasDifficulty:true/false` Enables or disables career mode `Default: true`
+- `--HasNewParticles:true/false` Enables or disables new particles `Default: true`
+- `--FullVersion:true/false` Sets the game to the full version or not `Default: true`
+- `--ShowFullVersionButton:true/false` Shows or hides the full version button `Default: false`
+
+
 ## How to run
 1. Create a shortcut for Spaceflight Simulator.exe.
 2. Right-click the shortcut and select "Properties".
