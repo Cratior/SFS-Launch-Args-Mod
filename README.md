@@ -51,3 +51,7 @@ To automatically start Spaceflight Simulator when building a mod project, follow
 Note: This setup might currently produce an error, but it's a functional method I personally use for my projects.
 
 Feel free to adjust paths and filenames according to your specific setup and preferences.
+
+## Low quality example of launch arguments
+https://github.com/Cratior/SFS-Launch-Args-Mod/assets/55932656/c9c5e476-87b1-4409-a2e8-e2e4d1831c70
+
