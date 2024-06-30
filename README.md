@@ -15,7 +15,7 @@ When the mod is instaled many launch arguments can be added to a sfs shortcut to
 - `--HasNewParticles:true/false` Enables or disables new particles `Default: true`
 - `--FullVersion:true/false` Sets the game to the full version or not `Default: true`
 - `--ShowFullVersionButton:true/false` Shows or hides the full version button `Default: false`
-
+- `--DisableParts:"Part1,Part2,Part3"` Enables or disables parts, when unset defult is `"Test", "New Build", "Crew_New"` set to `"null"` to disable no parts
 
 ## How to run
 1. Create a shortcut for Spaceflight Simulator.exe.
